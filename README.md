@@ -4,12 +4,12 @@
 **MoveX** is an intelligent logistics optimization system designed to enhance industrial delivery efficiency through advanced route optimization, real-time GPS tracking, and predictive demand analytics.  
 By leveraging **IoT sensors**, **machine learning**, and **data-driven decision-making**, MoveX minimizes delivery time, reduces operational costs, and improves customer satisfaction.
 
----
+
 
 ## 🧭 Objective
 To build a **smart, scalable logistics system** that reduces inefficiencies in industrial deliveries and promotes sustainable, data-driven transport operations.
 
----
+
 
 ## 💡 Tech Stack
 | Component | Technology |
@@ -18,7 +18,7 @@ To build a **smart, scalable logistics system** that reduces inefficiencies in i
 | **Backend** | Node.js |
 | **Database** | Firebase |
 
----
+
 
 ## ⚙️ Installation & Setup
 1. **Clone the Repository**
