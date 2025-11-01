@@ -26,7 +26,7 @@ To build a **smart, scalable logistics system** that reduces inefficiencies in i
    git clone https://github.com/<your-username>/MoveX.git
    cd MoveX
 
-2.**Run the Application**
+  2.**Run the Application**
    
    npm run dev
 
