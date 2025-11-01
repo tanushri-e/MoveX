@@ -21,16 +21,19 @@ To build a **smart, scalable logistics system** that reduces inefficiencies in i
 
 
 ## ⚙️ Installation & Setup
+
 1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/<your-username>/MoveX.git
-   cd MoveX
 
-  2.**Run the Application**
-   
-   npm run dev
+git clone https://github.com/<your-username>/MoveX.git
+cd MoveX
 
-3. **Access Dashboard**
+2. **Run the Application**
+
+npm install
+npm run dev
+
+3. **Access the Dashboard**
+
 Open your browser and go to:
 
 http://localhost:3000
