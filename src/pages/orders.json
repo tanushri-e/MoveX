@@ -1,0 +1,11 @@
+[
+    {
+      "id": "ORD-12345",
+      "status": "Received",
+      "items": [
+        { "id": "1", "name": "Product A", "price": 10, "quantity": 2 }
+      ],
+      "totalAmount": 20
+    }
+  ]
+  
