@@ -28,9 +28,9 @@ To build a **smart, scalable logistics system** that reduces inefficiencies in i
 
 2.**Run the Application**
    
-   npm run dev     
+   npm run dev
 
 3. **Access Dashboard**
 Open your browser and go to:
 
-http://localhost:3000 (or your configured port)
+http://localhost:3000
