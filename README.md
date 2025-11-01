@@ -21,7 +21,7 @@ To build a **smart, scalable logistics system** that reduces inefficiencies in i
 
 
 ## ⚙️ Installation & Setup
-
+```bash
 1. **Clone the Repository**
 
 git clone https://github.com/<your-username>/MoveX.git
