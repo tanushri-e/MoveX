@@ -6,7 +6,7 @@ import { getAuth } from "firebase/auth";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAohe7e5dL96C-4xMAL4ouTHz--QGLy5PY",
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
   authDomain: "logiflow-44267.firebaseapp.com",
   projectId: "logiflow-44267",
   storageBucket: "logiflow-44267.appspot.com", // ✅ Fixed ".app" typo
